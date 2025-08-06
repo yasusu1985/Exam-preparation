@@ -1,5 +1,5 @@
 [beauty_salon_deployment_guide.md](https://github.com/user-attachments/files/21611302/beauty_salon_deployment_guide.md)
-# 美容師国家試験対策アプリ - Sakura Server デプロイメントガイド
+# 美容師国家試験対策アプリ - デプロイメントガイド
 
 ## 📁 ファイル構成
 
